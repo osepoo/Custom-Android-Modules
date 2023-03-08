@@ -7,7 +7,8 @@
 - Cool animation transitions and cardview layout arrangement.
 
 ## Screenshots
-- ![WhatsApp Image 2023-03-08 at 16 41 26 (1)](https://user-images.githubusercontent.com/98480075/223729994-f40fe8d8-91e1-4851-85d5-0de7addb2e83.jpeg)
+
+<img src="![WhatsApp Image 2023-03-08 at 16 41 26 (1)](https://user-images.githubusercontent.com/98480075/223729994-f40fe8d8-91e1-4851-85d5-0de7addb2e83.jpeg)" width="100" height="100" />
 
 - ![WhatsApp Image 2023-03-08 at 16 41 26](https://user-images.githubusercontent.com/98480075/223730188-b28dd27a-d370-40e4-8f68-89e22fd0e2de.jpeg)
 
