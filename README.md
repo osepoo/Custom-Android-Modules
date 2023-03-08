@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-- ![1](https://user-images.githubusercontent.com/98480075/223731289-17696581-6ecb-4121-8cf0-274baa1b2429.png)
+![1](https://user-images.githubusercontent.com/98480075/223731819-61a36892-6efb-4055-abca-e29a7f593363.png)
 
 - ![WhatsApp Image 2023-03-08 at 16 41 26](https://user-images.githubusercontent.com/98480075/223730188-b28dd27a-d370-40e4-8f68-89e22fd0e2de.jpeg)
 
